@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Family prayers of those poor Christians who in court and country, in cities, towns, cottages and farm houses, are in good earnest with religion : together with their way of intercession or praying for others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40831</idno>
+            <idno type="STC">Wing F355</idno>
+            <idno type="STC">ESTC R18017</idno>
+            <idno type="EEBO-CITATION">12868186</idno>
+            <idno type="OCLC">ocm 12868186</idno>
+            <idno type="VID">94764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94764)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 981:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Family prayers of those poor Christians who in court and country, in cities, towns, cottages and farm houses, are in good earnest with religion : together with their way of intercession or praying for others.</title>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94764:1" rendition="simple:additions"/>
+            <p>THE FAMILY-PRAYERS OF THOSE POOR CHRISTIANS, WHO IN Court and Country, in Cities, Towns, Cottages and Farm-Hou<g ref="char:EOLhyphen"/>ſes, are in good earneſt with Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>Together with their way of In<g ref="char:EOLhyphen"/>terceſſion or Praying for others.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>R. Royſton,</hi> Bookſeller to his Moſt Sacred Majeſty, at the <hi>Angel</hi> in <hi>Amen-corner,</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94764:2"/>
+            <pb n="3" facs="tcp:94764:2"/>
+            <head>The <hi>Family-Prayers</hi> of thoſe poor Chri<g ref="char:EOLhyphen"/>ſtians, who in Court and Country, in Cities, Towns, Cottages and Farm-Houſes, are in good earneſt with Re<g ref="char:EOLhyphen"/>ligion.</head>
+            <head type="sub">
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gether with their way of <hi>Interceſſion,</hi> or Praying for others.</head>
+            <p n="1">(1.) THE Sum of our Chriſtian Re<g ref="char:EOLhyphen"/>ligion; <hi>In the Name of the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er, and of the Son, and of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ghoſt,</hi> Amen.</p>
+            <p n="2">(2.) The Prayer of Prayers; that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erein we ask all things neceſſary, for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers as well as for our ſelves; for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and for Body; for our happy li<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in this world, for our happy go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> out of it, and for our moſt happy <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ining of that better world that is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come, namely, <hi>Our Father which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Heaven,</hi>—With this preparation <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d not by all, but by one only) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us pray for our ſelves and all others, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lord Jeſus Chriſt himſelf hath
+<pb n="4" facs="tcp:94764:3"/>not only taught, but alſo command us to pray, and to ſay, <hi>Our Fat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which</hi>—</p>
+            <p n="3">(3.) The General Thanksgiving; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that bleſſing of God for all his merci<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that he is much pleaſed with; na<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly, <hi>Glory be to the Father, and to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Son, and to the Holy Ghoſt. As it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the beginning, is now, and ever <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be world without end, Amen.</hi> With <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Introduction (ſaid not by all, but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one only) let us bleſs the Lord <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God for all his Mercies, in that fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of words which he greatly delights <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Glory be to the Father and</hi>—</p>
+            <p n="4">(4.) The Bleſſing of Bleſſings <hi>u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>to</hi> our ſelves; <hi>The Grace of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord Jeſus Chriſt, and the love of G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and the fellowſhip of the Holy Ghoſt with us all evermore, Amen.</hi>
+            </p>
+            <p>Being not able with any patience think of living without com<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Prayers in their reſpective Famil<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they have uſed themſelves to own th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God in common as they could, w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they could not as they would. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſhamed, <hi>they ſay,</hi> they were, the ri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="5" facs="tcp:94764:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> learned ſort ſhould go beyond them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the duty it ſelf, though they <hi>do,</hi> or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leaſt <hi>ſeem</hi> to do in the manner of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſormance. Set and long Meals they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are uſed among <hi>them,</hi> and alſo <hi>ſet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> long</hi> Family-Prayers: But though <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neither of theſe could they equal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, yet equal, if not exceed them, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would do, as in the wholeſom<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of their meats, never eating <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when they are hungry; ſo alſo in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> devoutneſs of their Morning and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eaing Family-Prayers: Becauſe theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, are nothing but theſe four <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now ſet down; ſaid aloud, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leiſurely, and deliberately, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nctly, by all; Parents, Children, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Servants, and all that are pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>And this upon theſe two grounds, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>g ſundry other:</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Becauſe they aſſure themſelves, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> devotion is from them, and any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Believers, true and acceptable de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n to <hi>that God who hath command<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and knows the full importance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, though <hi>we</hi> do not; and has pro<g ref="char:EOLhyphen"/>miſed
+<pb n="6" facs="tcp:94764:4"/>to hear and anſwer it, not ac<g ref="char:EOLhyphen"/>cording to our unworthy and narrow underſtanding of it, but according to his own All-ſeeing Mind and Meaning in it.</p>
+            <p n="2">2. Becauſe this way of Family-Pray<g ref="char:EOLhyphen"/>ers, (1) All (2) together, and (3) upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their knees, ſaying theſe things bot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Morning and Evening, is ſuch as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt buſie and moſt employed Famil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that is may have time for: And ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch too, as the moſt ſlender and igno<g ref="char:EOLhyphen"/>rant Ruler, whether man or woman is able to perform: And yet that whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being offered to God with true Dev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, Attention, and Intention, is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him as acceptable as any Prayers wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoever; nay, not the leſs, but the mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> acceptable for the fervency occaſion<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the Brevity: Becauſe they can off<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it moſt leiſurely and conſiderately, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo moſt earneſtly and ardently. A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hereunto, That owning their God ev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry day thus in common, they do aſſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves, whatever falls out to the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it <hi>ſhall</hi> be and is a Diſpenſation or Bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſing out of <hi>Sion,</hi> or ſuch as Religi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="7" facs="tcp:94764:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s ſanctified to them; eſpecially when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very one <hi>of</hi> and <hi>in</hi> the Family has a great charge laid upon him and her, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or daily performing his or her own <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cret and perſonal Devotions, accor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to his or her own ſecret and perſo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Neceſſities, Occaſions, and Impulſes.</p>
+            <div type="worship">
+               <head>The Worſhip it ſelf.</head>
+               <p n="1">(1.) <hi>In the Name of the Father, and of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Son, and of the Holy Ghoſt, Amen.</hi>
+               </p>
+               <p n="2">(2.) Let us pray for our ſelves and all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thers, as the Lord Jeſus Chriſt him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lf hath both taught and commanded <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; <hi>Our Father which art in Heaven. Hal<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>wed be thy Name. Thy Kingdom come. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y will be done in Earth as it is in Hea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en. Give us this day our daily bread. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd forgive us our treſpaſſes, as we <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rgive them that treſpaſs againſt us. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd lead us not into temptation, but de<g ref="char:EOLhyphen"/>liver
+<pb n="8" facs="tcp:94764:5"/>us from evil, for thine is the King<g ref="char:EOLhyphen"/>dom, the Power and the Glory, for ever and ever, Amen.</hi>
+               </p>
+               <p n="3">(3.) Let us bleſs the Lord our God for all his Mercies, in that form of words which to him is moſt acceptable; <hi>Glo<g ref="char:EOLhyphen"/>ry be to the Father, and to the Son, and to the Holy Ghoſt. As it was in the beginning, is now, and ever ſhall be, world without end, Amen.</hi>
+               </p>
+               <p n="4">(4.) <hi>The Grace of our Lord Jeſus Chriſt, and the Love of God, and the fellow<g ref="char:EOLhyphen"/>ſhip of the Holy Ghoſt be with us all evermore, Amen.</hi> Beſides this ſhorter ordinary way of Family-Prayers, they have alſo, whenſoever they ſee they have time enough, a larger way of praying; but ſtill by this Prayer of Prayers. For firſt they ſay it for the Holy Catholick Church, or for the whole eſtate of Chriſts Church mili<g ref="char:EOLhyphen"/>tant
+<pb n="9" facs="tcp:94764:5"/>here upon Earth, with this Intro<g ref="char:EOLhyphen"/>duction, <hi>Let us pray for the whole Eſtate <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f Chriſts Church militant here upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rth.</hi> And then moſt devoutly and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eiſurely do they <hi>in the Name of the father, Son, and Holy Ghoſt,</hi> offer up the Lords Prayer, all the while think<g ref="char:EOLhyphen"/>ing of the whole Church. Next, for the Particular Church wherein they are, with the Governours of it, with this preparation, <hi>Let us pray for our King and this whole Church and State.</hi> And then, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Name of the Father, Son, and Holy Ghoſt,</hi> ſaying, <hi>Our Father which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt</hi>—moſt leiſurely and fervently; all the while thinking of the King and all his Dominions both in Church and State. After this for the particular Neighbourhood, whereunto they do belong, and the particular Guide there<g ref="char:EOLhyphen"/>of; with this Introduction, <hi>Let us pray for our Miniſter, and this whole Pariſh where Gods Providence hath ſeated us:</hi> And then, <hi>In the Name of the—Our Fa<g ref="char:EOLhyphen"/>ther which art</hi>—Both moſt religiouſly and leiſurely uttered; all the while thinking of their reſpective Pariſh and
+<pb n="10" facs="tcp:94764:6"/>Miniſter. In the fourth place, <hi>Let us pray for all Enemies, Perſecutors, and Slanderers,</hi> &amp;c. In the fifth, <hi>For any ſick, weak, or otherwiſe in Danger, Neceſſity and Tribulation;</hi> Namely in the, <hi>Let us pray,</hi> him or her, or them, to whom they are ready to be ſo cha<g ref="char:EOLhyphen"/>ritable. In the ſixth, <hi>For the bleſſing of God upon the fruits of the Earth.</hi> In the ſeventh, for any emergent eſpecial occaſion; for inſtance, for the Parlia<g ref="char:EOLhyphen"/>ment when ſitting, for Ordination of good Miniſters before the four Ordina<g ref="char:EOLhyphen"/>tion-Sundays. For any Women in tra<g ref="char:EOLhyphen"/>vel, any friend in a journey, or enga<g ref="char:EOLhyphen"/>ged in any dangerous weighty buſineſs. For ſeaſonable weather, <hi>&amp;c.</hi> Conclu<g ref="char:EOLhyphen"/>ding ſtill in the ſame manner, for them<g ref="char:EOLhyphen"/>ſelves then gathered together; thus, <hi>In the laſt place, Let us pray for our ſelves here now aſſembled; In the Name of the Father,</hi> &amp;c, <hi>Glory be to the Father,</hi> &amp;c. <hi>Our Father,</hi> &amp;c. <hi>The Grace of our Lord Jeſus Chriſt,</hi> &amp;c.</p>
+               <p>Now the way how they came to be conſident and reſolved in this way of praying for others, as well as for them<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elves, was this.</p>
+               <pb n="11" facs="tcp:94764:6"/>
+               <p>Firſt, with great comfort and thank<g ref="char:EOLhyphen"/>fulneſs of heart, they did think much of that moſt merciful gift of Chriſt to his Church, the <hi>Lords Prayer.</hi> Second<g ref="char:EOLhyphen"/>ly, with no leſs cheerfulneſs and en<g ref="char:EOLhyphen"/>couragement did they conſider, That the Lord Jeſus in expreſs words bids them whenever they pray, to ſay that Prayer; <hi>When ye pray,</hi> (ſaith he) <hi>Say, Our Father,</hi> &amp;c. <hi>Luk.</hi> 11.2. Thereby plainly teaching them, that it was by him intended for all times, occaſions, and purpoſes whatſoever. And being there is nothing neceſſary either for Soul or body, either for this, or for the life to come, but therein couched it is and comprehended and meant, and underſtood by God the compoſer and hearer of the Prayer; though not by us perhaps the offerers. In devout aſking of all the bleſſings, and of the whole matter of this Prayer, not according to their own weak and low underſtan<g ref="char:EOLhyphen"/>ding of it, but according to Gods wiſ<g ref="char:EOLhyphen"/>dom in it, and his moſt gracious and fatherly intention towards Mankind by it: I ſay, in devout leiſurely and con<g ref="char:EOLhyphen"/>ſiderate
+<pb n="12" facs="tcp:94764:7"/>putting up this Prayer unto God, they did aſſure themſelves, they prayed moſt worthily and acceptedly for Friends, for Enemies, for Children, for Parents, for Maſters, for Servants, for King, for Church, for State, for Prieſt, for Neighbours, for Paſtors, for Guide, for any ſick, or otherwiſe di<g ref="char:EOLhyphen"/>ſtreſſed. If all the while they offered up this Prayer upon this or that occaſi<g ref="char:EOLhyphen"/>on, all along they thought moſt wiſtly and affectionately of him, her, it, or them, that they then meant good to. Nay they then aſſured themſelves, they had prayed for him, her, it, or them, as to the hearer of Prayers was accepta<g ref="char:EOLhyphen"/>ble, and ſo to the perſon or perſons, or body prayed for, effectual or beneficial one way or other. In the third and laſt place, whereas ſome perhaps may ob<g ref="char:EOLhyphen"/>ject and ſay, that underſtand they can<g ref="char:EOLhyphen"/>not, how any mans Faith, Repentance, or Religiouſneſs can benefit another, nor can they call to mind that ever they knew their Prayer for any elſe had ever the deſired effect and event. This rub they were taught to put out of their
+<pb n="13" facs="tcp:94764:7"/>way by theſe five Conſiderations.</p>
+               <p n="1">(1.) It is indeed no ſenſe nor reaſon at all that any mans Religiouſneſs or Devotion ſhould in the leaſt benefit any beſides himſelf; no, <hi>nor himſelf neither;</hi> but only that God hath pro<g ref="char:EOLhyphen"/>miſed, <hi>that it ſhall.</hi> Here, here is all the power and energy of Prayer; God hath commanded it for others, as well as for our ſelves, and in ſix hundred places hath promiſed to be overcome by it, <hi>at ſuch time,</hi> and in <hi>ſuch ways,</hi> as he ſees moſt fit and neceſſary. So not the Prayers themſelves, but Gods pro<g ref="char:EOLhyphen"/>miſe that upon our Prayers he will do ſo and ſo, <hi>This is the All in All.</hi> But if thoſe ſix hundred Promiſes were not in Scripture ſo <hi>expreſs,</hi> yet the com<g ref="char:EOLhyphen"/>mands for praying for others, being <hi>moſt</hi> expreſs, it were enough: Becauſe as every promiſe almoſt does ſuppoſe a command, ſo alſo does every com<g ref="char:EOLhyphen"/>mand imply a promiſe; this command for inſtance, for Interceſſion, <hi>that pre<g ref="char:EOLhyphen"/>vail it ſhall;</hi> for God never commands frivolous, fruitleſs and ſucceſsleſs things.</p>
+               <p n="2">(2.) As to the event and real effect
+<pb n="14" facs="tcp:94764:8"/>of Prayers, the Word they were taught, informs us to this purpoſe.</p>
+               <p n="1">1. That the Creature is to do his duty, and to leave the iſſue to God, the event being Gods care and buſineſs, not the Creatures, <hi>Mark</hi> 4.26, 27. <hi>So is the Kingdom of God, as if a man ſhould caſt ſeed into the ground, and ſhould ſleep and riſe night and day, and the ſeed ſhould ſpring and grow up he knows not how.</hi>
+               </p>
+               <p n="2">(2.) That the event is always that which is <hi>beſt,</hi> though <hi>not that</hi> which the Votary did particularly aim at. As when <hi>Saul</hi> ſought for nothing but his Fathers Aſſes, but met, we know, with the Kingdom of <hi>Iſrael.</hi> And <hi>Abrahams</hi> Prayer for all <hi>Sodom</hi> is anſwered by the ſignal deliverance of his neer kinſ<g ref="char:EOLhyphen"/>man <hi>Lot;</hi> for ſo ſaith the Text, <hi>And it came to paſs when God deſtroyed the Ci<g ref="char:EOLhyphen"/>ties of the Plain, that God remembred Abraham, and ſent Lot out of the midſt of the overthrow, when he overthrew the Cities, in the which Lot dwelt,</hi> Gen. 19.29. Nay, <hi>omnibus poſitis,</hi> the world being as it <hi>was,</hi> and <hi>is,</hi> nothing
+<pb n="15" facs="tcp:94764:8"/>
+                  <hi>could be, can</hi> be, better than it <hi>was,</hi> and <hi>is.</hi> Beſides, they that wait upon God in his ways, eſpecially that of praying for others as well as for themſelves; theſe do always find all events, good unto them and to the univerſe, one way or other; for to ſuch, the Lord who made Heaven and Earth, and rules all, makes all events to be bleſſings out of Sion, as the <hi>Pſalmiſt</hi> ſpeaks, <hi>Pſal.</hi> 134.3. That is, to be not only <hi>Secular</hi> events, but alſo Sion-bleſſings; or ſuch as he uſes to ſanctifie to his Church, to Sion and all praying Believers; and likewiſe to enable them to be well contented with them, be they never ſo harſh and diſtaſtful to fleſh and blood; yet ſtill ſomething of comfort and ſatisfaction do they, <hi>by vertue of their walking in the ways of Sion,</hi> ſind and deprehend in them; according to that moſt Or<g ref="char:EOLhyphen"/>thodox and moſt common word of the believing <hi>Hebrews,</hi> when any thing very croſs fell out <hi>to</hi> or <hi>upon</hi> them, <hi>Gam zu le tobha,</hi> would they ſay, <hi>Even this for good.</hi>
+               </p>
+               <p>For the unerring eye of Providence,
+<pb n="16" facs="tcp:94764:9"/>or <hi>Omnividence,</hi> ſaid they, <hi>ſaw,</hi> and <hi>ſees,</hi> what <hi>was</hi> and <hi>is</hi> beſt and moſt ne<g ref="char:EOLhyphen"/>ceſſary for the univerſe; and ſo, accor<g ref="char:EOLhyphen"/>ding to occaſions, <hi>made</hi> and <hi>makes,</hi> or <hi>ſuffered</hi> and <hi>ſuffers</hi> that ſtill to fall out.</p>
+               <p n="3">(3.) When thoſe we pray for, ſuch as the impure <hi>Sodomites,</hi> have made them<g ref="char:EOLhyphen"/>ſelves uncapable of our Charity, yet is our Zeal and Charity to do good, not the <hi>leſs,</hi> but the <hi>more</hi> acceptable in the ſight of God; and returns with the choiceſt of all anſwers into our own boſoms; that is, with an increaſe of the choiceſt Grace; that is, more and more Heavenly-mindedneſs, and more and more publick ſpirit.</p>
+               <p n="4">(4.) All labour in vain is not vain labour; that is, labour in vain as to this or that particular deſign, is not vain labour, as to the general aim of Chri<g ref="char:EOLhyphen"/>ſtianity and Religion. No, that many times is moſt attained and promoted, when the other may ſeem quite blaſted and defeated.</p>
+               <p>Ye poorer and unlearned, ſee your advantageous and eaſie way of Family-prayers in your Brethren; and be not
+<pb n="17" facs="tcp:94764:9"/>ſo great enemies to your own Souls, and to the Souls of thoſe who are under your Authority. As any time hereafter mor<g ref="char:EOLhyphen"/>ning and evening, not to ſeek God in your Families in this <hi>ſhort</hi> and <hi>eaſie,</hi> but <hi>effectual</hi> way; and make no queſtion but that God who underſtands <hi>Hearts</hi> better than we do <hi>Words,</hi> will moſt gra<g ref="char:EOLhyphen"/>ciouſly accept both the <hi>Hearts</hi> and <hi>Words,</hi> becauſe <hi>theſe</hi> of his own <hi>endi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing,</hi> as <hi>thoſe</hi> of his own exciting.</p>
+               <p>
+                  <hi>See then</hi> (ſaith the Apoſtle) <hi>that ye <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alk circumſpectly not as fools, but as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſe, redeeming the time, becauſe the days <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> evil. Wherefore be ye not unwiſe, but underſtanding what the will of the Lord <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> Epheſ. 5.15, 16, 17. As if he ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave ſaid in other words thus; Seeing the days are ſo evil, ſo perilous, and ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>heiſtical, and withal ſo contagious and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oyſoning, as ye ſee they are, do not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>il to redeem time for this <hi>little</hi> (as one would ſay, to find or make time for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing this ſoveraign Antidote) in your re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ective Families, twice every four and twenty hours at the leaſt; or certainly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do not <hi>underſtand what the will of
+<pb n="18" facs="tcp:94764:10"/>the Lord is</hi> in this and many ſuch-like Scriptures. If yet ye have not done it, yet now at length do it, and let not this reproach lie at the doors of profeſſed Chriſtians, that Family-prayers, like ſet and coſtly meals, are to be ſeen and found only among the rich and learned. Do but break into it, and begin, and after one week the Devil and former neglect will never be able to caſt you back into your old ſtupour, indiſpoſiti<g ref="char:EOLhyphen"/>on and benummedneſs.</p>
+               <p>To conclude, whereas that word, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> great volume, great vanity, was never more true than now, becauſe men of poverty cannot buy ſuch Books, and men of buſineſs cannot read them. We ſhall put no more to you at this time but this one thing the long and happy experience of ſundry your Brethren, which aſſures you, that if this due care among ſundry other, ye do take of your <hi>Families,</hi> this benefit for certain ye ſhall ſind to your <hi>ſelves,</hi> name<g ref="char:EOLhyphen"/>ly, That in your ſecret, proper and per<g ref="char:EOLhyphen"/>ſonal Prayers and Ejaculations, whether <hi>up</hi> or in bed, whether for your ſelves, or
+<pb n="19" facs="tcp:94764:10"/>for others, ye ſhall ſee your ſelves every day more and more enlarged and aſſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed, than ever ye did, when this open regard of your Families ye had not (as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e would ſay in the words of the Pro<g ref="char:EOLhyphen"/>phet <hi>Ezekiel,</hi> when ye did not ſtudy the turning of others as well as of your ſelves, <hi>Ezek.</hi> 18.30.32. <hi>Wherefore turn <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ur ſelves, and live ye.</hi> Margent, <hi>Where<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re turn others and live ye.</hi> Eſpecially if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do not fail often to mind your Fa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ilies both jointly and ſeverally, both <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e by one and altogether; that to theſe family-prayers they add, praying by themſelves every one <hi>to</hi> himſelf, and <hi>by</hi> himſelf, as often as he ſhall find himſelf <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>leiſure and thereunto diſpoſed, and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>et</hi> never ſeldomer may it be, than <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery night when he goes to bed, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery morning when he ariſeth. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> every Father of the Family let him <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ver forget but always well remember, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t the only way to have good Chil<g ref="char:EOLhyphen"/>dren and good Servants, is to be ſure to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke them good Chriſtians. And all whatſoever, Maſters, Servants, Parents, children, Landlords, Tenants, Kings,
+<pb n="20" facs="tcp:94764:11"/>Subjects, Paſtors, People, Husbands, Wives, all of all eſtates, conditions and capacities whatſoever; Know we all, one great reaſon why we all have ſo little comfort one of another, ſeems to be this, Becauſe we have ſo little Chriſtian care one of another. For if Kings, for inſtance, would pray more for the King<g ref="char:EOLhyphen"/>dom of God to rule in their Subjects, their Kingdoms certes would not be ſo ſhaken with Rebellions and Seditions as they be. And on the other ſide, if Sub<g ref="char:EOLhyphen"/>jects would be more praying, that their Kings might ſtudy more to <hi>hallow</hi> Gods Name, than to <hi>honour</hi> their own, they would ſee Reaſon queſtionleſs to be more willing to confeſs them the Fa<g ref="char:EOLhyphen"/>thers of their Country, and under God, the authors and maintainers of their Proſperity. If Husbands would ſay the Lords-prayer for their Wives oftener than they do, God would keep their Wives from ſaying their Prayers back<g ref="char:EOLhyphen"/>wards for them, ſo oft as many do. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Fathers and Mothers would be more a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Our Father</hi> for their Children, the Chil<g ref="char:EOLhyphen"/>dren being wrought upon by their Fa<g ref="char:EOLhyphen"/>ther
+<pb n="21" facs="tcp:94764:11"/>in Heaven, would become more dutiful to their Parents on Earth. If people would pray more that the An<g ref="char:EOLhyphen"/>gels of God in this World his Miniſters, might do the will of God on Earth as done it is by the Angels in Heaven, they would ſee more things in them to re<g ref="char:EOLhyphen"/>joyce <hi>in,</hi> than now they do to lament and find fault with. If Maſters would pray more that God would give their Servants their daily bread in the full ex<g ref="char:EOLhyphen"/>tent and true meaning of that word, the daily bread which they do give them would doubtleſs be much better reſen<g ref="char:EOLhyphen"/>ted and requited by them, than now or<g ref="char:EOLhyphen"/>dinarily it is. And then according to the Ordinance of King <hi>Ethelbert,</hi> who gave all mean Lords their Eſtates upon three Conditions, and one of them this, That they ſhould be Fathers to their Tenants: Then I ſay, would Landlords doubtleſs be a kind of loving Fathers to their Tenants, and they back again as good as Sons to their Landlords; if both would make great conſcience of offer<g ref="char:EOLhyphen"/>ing up <hi>Our Father,</hi> for one another dai<g ref="char:EOLhyphen"/>ly, conſtantly, and devoutly.</p>
+               <pb n="22" facs="tcp:94764:12"/>
+               <p>In a word if <hi>all,</hi> that is, <hi>if men,</hi> as St. <hi>Paul</hi> orders, <hi>Phil</hi> 2.1. <hi>Would not ſeek every one his own things only,</hi> but think and ſtudy, and pray every man <hi>for the things of others alſo;</hi> then would there be clean another face of things in the World than now is; even as it is in the next verſe, <hi>The ſame mind in us,</hi> in a good meaſure, <hi>as was in Chriſt Jeſus.</hi>
+               </p>
+               <p>But when all the entercourſe between the reſpective Eſtates and Conditions is nothing but what we <hi>ſee;</hi> every one prating and practiſing for himſelf, and ſcarce any one, praying, or ſo much as propounding for any other, no marvel ſo <hi>many, very</hi> many are for the good of themſelves only, and ſo few able to do themſelves or others any real good at all.</p>
+               <p>
+                  <hi>Si in ſuà quiſque viciniâ, hanc aut ſimilem fatigandi,</hi> [Iſa. 62.7.] <hi>Deum ſuum rationem, ſuos omnes</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>do<g ref="char:EOLhyphen"/>cerent Eccleſiae Miniſtri, eamque iis in uſum redigerent, effectum daretur haud dubie multum boni, multum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mali, par<g ref="char:EOLhyphen"/>tim
+<pb n="23" facs="tcp:94764:12"/>anteverteretur; partim ſanaretur. Quod faxit Deus, per &amp; propter Je<g ref="char:EOLhyphen"/>ſum Chriſtum Advocatum, Dominum &amp; Mediatorem noſtrum.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
